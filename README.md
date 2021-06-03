@@ -1,8 +1,8 @@
-# CTZN (pronounced "Citizen")
+# CTZN Extended ("CTZN" pronounced "Citizen")
 
-A decentralized social network with a strong focus on building communities.
+CTZN is a decentralized social network with a strong focus on building communities initally created by Paul Frazee, CTZN Extended is a new fork created by early CTZN user, Joe Harley, to teach himself about JavaScript and improve upon the original CTZN platform (think what C++ is to C!)
 
-**Features**
+**Standard CTZN Features**
 
 - Status feeds with 256 character limits but the ability to post "extended text" with no limit (shows on expand).
 - Social following and moderated communities.
@@ -11,11 +11,19 @@ A decentralized social network with a strong focus on building communities.
 
 Read the [initial design document](./docs/design.md) to learn more about the architecture.
 
+## CTZN Extended - possible features roadmap
+
+- Incorporate private messaging features.
+- Create built-in Fediverse bridging software.
+- Allow further theme customisation.
+- Add the ability for built SSH/Telnet text-mode viewing.
+- Create groupware systems based on CTZN.
+
 ## ⚠️ Alpha Software
 
-CTZN is still in development! If you decide to run a server or build against the protocol, beware that breaking changes may occur and won't always be communicated ahead of time. We will create a stability process once CTZN reaches beta.
+CTZN (and by extestion, CTZN Extended) is still in development! If you decide to run a server or build against the protocol, beware that breaking changes may occur and won't always be communicated ahead of time.
 
-## 📚 Docs
+## 📚 Standard CTZN Docs
 
 - **Setup**
     - [**How to set up a CTZN server**](./docs/setting-up-a-server.md)
@@ -31,7 +39,7 @@ CTZN is still in development! If you decide to run a server or build against the
 
 ### 📺 Videos
 
-CTZN's development has been live-streamed from day 1. You can [watch the archives on YouTube](https://www.youtube.com/channel/UCSkcL4my2wgDRFvjQOJzrlg).
+Standard CTZN's development has been live-streamed from day 1. You can [watch the archives on YouTube](https://www.youtube.com/channel/UCSkcL4my2wgDRFvjQOJzrlg).
 
 ### Attributions
 
@@ -40,11 +48,3 @@ CTZN's development has been live-streamed from day 1. You can [watch the archive
 Icon licensed under CC BY 3.0: [icon king 1](https://freeicons.io/profile/3)
 
 ----
-
-## ✨ Patreon support
-
-CTZN is [generously supported on Patreon](https://www.patreon.com/paul_maf_and_andrew) by many people. You can [see the full list of names here](https://ctzn.network/).
-
-We've also received gracious donations outside of patreon from:
-
-- cryptokoh.eth
